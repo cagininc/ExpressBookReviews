@@ -16,25 +16,25 @@ This project is a server-side application designed for an online book retailer, 
 ## Screenshots
 
 ### List of All Books
-![List of All Books](screenshots/1-getallbooks.png)
+![List of All Books](1-getallbooks.png)
 
 ### Get Books by Title
-![Get Books by Title](screenshots/13-getbooksbytitle.png)
+![Get Books by Title](13-getbooksbytitle.png)
 
 ### Get Details by ISBN
-![Get Details by ISBN](screenshots/2-gedetailsISBN.png)
+![Get Details by ISBN](2-gedetailsISBN.png)
 
 ### Get Books by Author
-![Get Books by Author](screenshots/3-getbooksbyauthor.png)
+![Get Books by Author](3-getbooksbyauthor.png)
 
 ### Get Book Review
-![Get Book Review](screenshots/5-getbookreview.png)
+![Get Book Review](5-getbookreview.png)
 
 ### User Registration
-![User Registration](screenshots/6-register.png)
+![User Registration](6-register.png)
 
 ### User Login
-![User Login](screenshots/7-login.png)
+![User Login](7-login.png)
 ## Technologies Used
 - Node.js
 - Express.js
